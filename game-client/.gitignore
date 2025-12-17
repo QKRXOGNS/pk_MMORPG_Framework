@@ -1,0 +1,58 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Build output
+dist/
+build/
+
+# Firebase
+firebase-debug.log
+.firebase/
+# Note: Firebase config keys removed from src/firebase.ts and game-server/firebase.js
+# Please add your own Firebase credentials
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Game server (서버는 별도 리포지토리)
+game-server/
+
+# Sprites (Add your own sprite images)
+# Remove the line below after adding your sprites to public/sprites/
+public/sprites/
+dist/sprites/
