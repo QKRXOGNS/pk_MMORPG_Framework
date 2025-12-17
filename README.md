@@ -1,5 +1,15 @@
 # 🎮 Idle RPG Framework
 
+[실제 플레이] 
+
+https://pk-rpg-test.vercel.app/
+
+<img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/dfdf1e1c-f323-45c9-b464-15ed11fbbe60" />
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a5d67197-29ac-45d2-985c-b0986f95cb9f" />
+
+
 실시간 멀티플레이어 RPG 게임 프레임워크입니다.  
 React + TypeScript + Socket.IO + Firebase 기반으로 제작되었습니다.
 
