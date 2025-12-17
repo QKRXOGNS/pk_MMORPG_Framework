@@ -49,8 +49,8 @@ Thumbs.db
 *.temp
 *~
 
-# Game server (서버는 별도 리포지토리)
-game-server/
+# Game server
+# game-server/ - 서버 코드도 포함됨 (별도 리포지토리 아님)
 
 # Sprites (Add your own sprite images)
 # Remove the line below after adding your sprites to public/sprites/
